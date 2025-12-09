@@ -1,0 +1,3 @@
+tinytuya
+gspread
+oauth2client
